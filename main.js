@@ -35,3 +35,4 @@ const chargingStation = {
     return this._robotCapacity;
   }
 }
+// Prueba de Jon en el repositorio de Sergi
